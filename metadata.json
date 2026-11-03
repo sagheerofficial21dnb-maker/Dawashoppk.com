@@ -1,0 +1,6 @@
+{
+  "name": "Dawashoppk - Health & Timing Store Pakistan",
+  "description": "Pakistan's authentic store for health supplements, herbal care, timing sprays and wellness products with nationwide Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
